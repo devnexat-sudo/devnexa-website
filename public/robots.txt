@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# Replace with the production domain once connected.
+Sitemap: https://devnexa-technologies.example.com/sitemap.xml
